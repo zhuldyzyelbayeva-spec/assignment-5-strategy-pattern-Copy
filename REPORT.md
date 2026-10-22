@@ -3,8 +3,6 @@
 **Student:** Zhuldyz Yelbayeva  
 **Group:** SE-2522  
 **Course:** Software Design Patterns  
-**University:** Astana IT University  
-**Academic Year:** 2026–2027  
 **GitHub:** https://github.com/zhuldyzyelbayeva-spec/assignment-5-strategy-pattern-Copy.git
 
 ## 1. Introduction
@@ -325,4 +323,3 @@ Overall, the Strategy pattern provides a clear, extensible, and testable design 
 ## References
 
 1. Astana IT University. (2026–2027). *Assignment #5 — Strategy Pattern*. Software Design Patterns, ShP-2216.
-2. Project implementation and testing examples developed with AI-assisted reference support (ChatGPT, OpenAI, 2026).
