@@ -2,10 +2,6 @@
 
 **Reference implementation for learning and independent adaptation.** Domain: navigation / route-time estimation (Option A). Distances and speeds are illustrative; this does **not** call a map service or calculate real roads.
 
-## Requirements
-- JDK 17 or later
-- Terminal or IntelliJ IDEA
-
 ## Build and run
 From the project root (macOS/Linux):
 ```bash
